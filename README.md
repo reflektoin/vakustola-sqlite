@@ -1,6 +1,10 @@
 # vakustola-sqlite
 Ostolaskudatan lataus ja sqlite-kantaan tallennus
 
+Lataa sqlite täältä: https://sqlite.org/download.html. Windows-käyttäjänä latasin tiedostoon sqlite-tools-win32-x86-3330000.zip.
+
+Sqlite browserilla (DB Browser for SQLite (DB4S) https://sqlitebrowser.org/) voi selata tietokannan sisältöä. 
+
 # Ostolaskudata
 Data sijaitsee osoitteessa https://www.avoindata.fi/data/fi/dataset/tutkihankintoja-data. Datan lisenssi on Creative Commons Attribution 4.0 International License.
 
