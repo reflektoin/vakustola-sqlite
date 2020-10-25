@@ -21,9 +21,12 @@ Datat on jaettu vuosien perusteella:
 2020: https://www.avoindata.fi/data/dataset/ba96a638-67bf-4747-b084-c78ccfe052e9/resource/10d9ee7a-6eb9-4326-bb36-96f9c0f6a768/download/th_data_2020.csv
 
 Aineiston muutoksien tarkkailu. Tiedostokoot 25.10.2020 linuxissa tarkastettuna:
+
+```
 vakustola-sqlite$ ls -l th_data_20*
 -rwxrwxrwx 1 reflektoin reflektoin 269498215 Oct 19 03:14 th_data_2016.csv
 -rwxrwxrwx 1 reflektoin reflektoin 271426183 Oct 19 03:15 th_data_2017.csv
 -rwxrwxrwx 1 reflektoin reflektoin 452713295 Oct 19 03:16 th_data_2018.csv
 -rwxrwxrwx 1 reflektoin reflektoin 456084713 Oct 19 03:17 th_data_2019.csv
 -rwxrwxrwx 1 reflektoin reflektoin 115827167 Oct 19 03:17 th_data_2020.csv
+```
