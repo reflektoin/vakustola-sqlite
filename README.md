@@ -30,3 +30,8 @@ vakustola-sqlite$ ls -l th_data_20*
 -rwxrwxrwx 1 reflektoin reflektoin 456084713 Oct 19 03:17 th_data_2019.csv
 -rwxrwxrwx 1 reflektoin reflektoin 115827167 Oct 19 03:17 th_data_2020.csv
 ```
+
+
+27.10.2020
+
+Rivien määrä ei ole muuttunut edellisten vuosien aineistoissa, mutta ainakin yhden yrityksen nimi on muuttunut vuoden 2016 aineistossa.
